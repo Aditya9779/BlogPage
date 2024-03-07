@@ -1,4 +1,11 @@
 p{
-    color: rgb(255, 166, 0);
+    color: rgb(206, 103, 19);
+    
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.cursive{
+    font-family: cursive;
     
 }
