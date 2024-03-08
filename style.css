@@ -9,3 +9,6 @@ p{
     font-family: cursive;
     
 }
+#blog_title:hover{
+    color: blue;
+}
